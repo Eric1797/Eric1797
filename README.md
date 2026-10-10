@@ -2,6 +2,7 @@
 <a href="my-badges/covid-19.md"><img src="https://my-badges.github.io/my-badges/covid-19.png" alt="I rolled before Covid-19: Survivor of the Great TP Shortage" title="I rolled before Covid-19: Survivor of the Great TP Shortage" width="64"></a>
 <a href="my-badges/github-anniversary-5.md"><img src="https://my-badges.github.io/my-badges/github-anniversary-5.png" alt="I joined GitHub 5 years ago." title="I joined GitHub 5 years ago." width="64"></a>
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,vercel,ts,react,pnpm,obsidian,nodejs,mongodb,jest,ai,graphql,gitlab,githubactions,github,git,firebase,express,docker)](https://skillicons.dev)
 
 <h2>Hi </h2>
 <p><em>Full stack Enginner</br>
